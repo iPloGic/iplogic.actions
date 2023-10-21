@@ -1,0 +1,19 @@
+<?php
+$MESS["MODULE_INCLUDE_ERROR"] = "Module not installed";
+$MESS["IPL_ADMIN_CAPTION_NAME"] = "Caption";
+$MESS["IPL_ADMIN_CAPTION_ACTIVE"] = "Activity";
+$MESS["IPL_ADMIN_YES"] = "Yes";
+$MESS["IPL_ADMIN_NO"] = "No";
+$MESS["IPL_ADMIN_ALL"] = "(all)";
+$MESS["IPL_ADMIN_CAPTION_SORT"] = "Sort";
+$MESS["IPL_ADMIN_ADD"] = "Create";
+$MESS["IPL_ADMIN_ADD_TITLE"] = "New Group";
+$MESS["IPL_ADMIN_CAPTION_DESCRIPTION"] = "Description";
+$MESS["IPL_ADMIN_LIST_TITLE"] = "Actions groups";
+$MESS["IPL_ADMIN_LIST_COPY"] = "Copy";
+$MESS["IPL_ADMIN_SAVE_ERROR_NO_ITEM"] = "Entry not found";
+$MESS["IPL_ADMIN_SAVE_ERROR_UPDATE"] = "Update failed";
+$MESS["IPL_ADMIN_SAVE_ERROR_DELETE"] = "Deletion failed";
+$MESS["IPL_ADMIN_DELETE_CONF"] = "Are you sure you want to delete the item?";
+$MESS[""] = "";
+$MESS[""] = "";

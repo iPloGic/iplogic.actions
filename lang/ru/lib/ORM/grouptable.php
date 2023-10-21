@@ -1,0 +1,6 @@
+<?php
+$MESS['GROUP_ENTITY_ID_FIELD'] = "ID";
+$MESS['GROUP_ENTITY_NAME_FIELD'] = "Название";
+$MESS['GROUP_ENTITY_DESCRIPTION_FIELD'] = "Описание";
+$MESS['GROUP_ENTITY_ACTIVE_FIELD'] = "Активность";
+$MESS['GROUP_ENTITY_SORT_FIELD'] = "Индекс сортировки";

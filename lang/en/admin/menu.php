@@ -1,0 +1,8 @@
+<?
+$MESS["IPL_ACT_MENU_ACTIONS"] = "Actions";
+$MESS["IPL_ACT_MENU_ACTIONS_TITLE"] = "Launching actions";
+$MESS["IPL_ACT_MENU_ACTIONS_GO"] = "Launch";
+$MESS["IPL_ACT_MENU_ACTIONS_SETUP"] = "Setup";
+$MESS["IPL_ACT_MENU_ACTIONS_LIST"] = "Actions";
+$MESS["IPL_ACT_MENU_ACTIONS_GROUPS"] = "Groups";
+$MESS["IPL_ACT_MENU_HELP"] = "Help";

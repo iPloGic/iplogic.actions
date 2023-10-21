@@ -1,0 +1,10 @@
+<?
+$MESS["ACTIONS_ENTITY_ID_FIELD"] = "ID";
+$MESS["ACTIONS_ENTITY_NAME_FIELD"] = "Название";
+$MESS["ACTIONS_ENTITY_ACTION_FIELD"] = "Адрес действия";
+$MESS["ACTIONS_ENTITY_TYPE_FIELD"] = "Тип";
+$MESS["ACTIONS_ENTITY_ACTIVE_FIELD"] = "Активность";
+$MESS["ACTIONS_ENTITY_SORT_FIELD"] = "Индекс сортировки";
+$MESS["ACTIONS_ENTITY_BACKGROUND_FIELD"] = "Запускать в фоне";
+$MESS["ACTIONS_ENTITY_NEW_WINDOW_FIELD"] = "Результат в новом окне";
+$MESS['ACTIONS_ENTITY_GROUP_FIELD'] = "Группа";

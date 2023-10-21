@@ -1,0 +1,26 @@
+<?php
+$MESS["MODULE_INCLUDE_ERROR"] = "Модуль не установлен";
+$MESS["IPL_ADMIN_CAPTION_NAME"] = "Название";
+$MESS["IPL_ADMIN_CAPTION_ACTIVE"] = "Активность";
+$MESS["IPL_ADMIN_YES"] = "Да";
+$MESS["IPL_ADMIN_NO"] = "Нет";
+$MESS["IPL_ADMIN_ALL"] = "(все)";
+$MESS["IPL_ADMIN_CAPTION_SORT"] = "Сортировка";
+$MESS["IPL_ADMIN_ADD"] = "Создать";
+$MESS["IPL_ADMIN_ADD_TITLE"] = "Новое действие";
+$MESS["IPL_ADMIN_LIST_TITLE"] = "Действия";
+$MESS["IPL_ADMIN_LIST_COPY"] = "Копировать";
+$MESS["IPL_ADMIN_SAVE_ERROR_NO_ITEM"] = "Запись не найдена";
+$MESS["IPL_ADMIN_SAVE_ERROR_UPDATE"] = "Ошибка обновления";
+$MESS["IPL_ADMIN_SAVE_ERROR_DELETE"] = "Ошибка удаления";
+$MESS["IPL_ADMIN_DELETE_CONF"] = "Вы уверены, что хотите удалить элемент?";
+$MESS["IPL_ADMIN_CAPTION_ACTION"] = "Вызываемый файл";
+$MESS["IPL_ADMIN_HTTP"] = "Запуск через http(s)";
+$MESS["IPL_ADMIN_CLI"] = "Консольный PHP скрипт";
+$MESS["IPL_ADMIN_CAPTION_TYPE"] = "Тип";
+$MESS["IPL_ADMIN_CAPTION_BACKGROUND"] = "Запуск в фоне";
+$MESS["IPL_ADMIN_CAPTION_NEW_WINDOW"] = "Новое окно";
+$MESS["IPL_ADMIN_CAPTION_GROUP"] = "Группа";
+$MESS["IPL_ADMIN_NO_GROUP"] = "Без группы";
+$MESS[""] = "";
+$MESS[""] = "";

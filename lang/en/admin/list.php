@@ -1,0 +1,26 @@
+<?php
+$MESS["MODULE_INCLUDE_ERROR"] = "Module not installed";
+$MESS["IPL_ADMIN_CAPTION_NAME"] = "Caption";
+$MESS["IPL_ADMIN_CAPTION_ACTIVE"] = "Activity";
+$MESS["IPL_ADMIN_YES"] = "Yes";
+$MESS["IPL_ADMIN_NO"] = "No";
+$MESS["IPL_ADMIN_ALL"] = "(all)";
+$MESS["IPL_ADMIN_CAPTION_SORT"] = "Sort";
+$MESS["IPL_ADMIN_ADD"] = "Create";
+$MESS["IPL_ADMIN_ADD_TITLE"] = "New Action";
+$MESS["IPL_ADMIN_LIST_TITLE"] = "Actions";
+$MESS["IPL_ADMIN_LIST_COPY"] = "Copy";
+$MESS["IPL_ADMIN_SAVE_ERROR_NO_ITEM"] = "Entry not found";
+$MESS["IPL_ADMIN_SAVE_ERROR_UPDATE"] = "Update failed";
+$MESS["IPL_ADMIN_SAVE_ERROR_DELETE"] = "Deletion failed";
+$MESS["IPL_ADMIN_DELETE_CONF"] = "Are you sure you want to delete the item?";
+$MESS["IPL_ADMIN_CAPTION_ACTION"] = "Call File";
+$MESS["IPL_ADMIN_HTTP"] = "Launch via http(s)";
+$MESS["IPL_ADMIN_CLI"] = "PHP Console Script";
+$MESS["IPL_ADMIN_CAPTION_TYPE"] = "Type";
+$MESS["IPL_ADMIN_CAPTION_BACKGROUND"] = "Launch in background";
+$MESS["IPL_ADMIN_CAPTION_NEW_WINDOW"] = "New Window";
+$MESS["IPL_ADMIN_CAPTION_GROUP"] = "Group";
+$MESS["IPL_ADMIN_NO_GROUP"] = "No group";
+$MESS[""] = "";
+$MESS[""] = "";
